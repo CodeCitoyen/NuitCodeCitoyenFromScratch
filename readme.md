@@ -5,7 +5,10 @@ Nuit du Code Citoyen Website
 ## Technologies
 
 * Jekyll
-
+* Boostrap (front)
+* chivo (font)
+* linea basic (icons)
+* linea arrows (icons)
 
 ## Install 
 
